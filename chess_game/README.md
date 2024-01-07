@@ -1,2 +1,2 @@
-﻿# chess_2023
+﻿# chess.com_clone
 [https://www.chess.com]
